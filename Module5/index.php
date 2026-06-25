@@ -9,7 +9,7 @@
 
     for ($row=0;$row<count($students);$row++){
         echo "<ul>";
-        for($column=0;$column<count($students[$row]);$column++){
+        for($column=0;$column<ount($students[$row]);$column++){
             echo "<li>".$students[$row][$column]."</li>";
         }
         echo "</ul>";
