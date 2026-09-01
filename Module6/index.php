@@ -1,5 +1,5 @@
 <?php
-    $loop=array(
+$loop=array(
 
     array("London","Britan"),
     array("Paris","France"),
